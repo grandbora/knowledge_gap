@@ -1,6 +1,6 @@
 # Compile & Run
 
-Parse http response
+Parse an http response
 ```
 clang client.c -o client.out && ./client.out www.wikipedia.com 80
 ```
