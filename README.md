@@ -1,3 +1,5 @@
+## Read at https://medium.com/swlh/looking-under-the-hood-http-over-tcp-sockets-952a944c99da
+
 # Compile & Run
 
 Parse an http response
